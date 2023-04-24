@@ -11,7 +11,9 @@ def fizz_bazz(n)
     end
 end
 
-puts fizz_bazz(15)
+# puts fizz_bazz(15)
+
+
 
 
 a = 'a'
